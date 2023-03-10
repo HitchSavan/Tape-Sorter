@@ -1,0 +1,4 @@
+# config
+read_delay=1
+write_delay=1
+move_delay=1
